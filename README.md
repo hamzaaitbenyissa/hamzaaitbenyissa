@@ -14,7 +14,7 @@
 I am a software enginner student from Morocco <img src="https://media.giphy.com/media/Q6xuxUhCgCNpsbfhaP/giphy.gif" width="30">
 
 - 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-- ⚡ In my free time I solve problems on leetcode and read tech articles.
+- ⚡ In my free time I solve problems on leetcode,codingame and read tech articles.
 
 ---
 
