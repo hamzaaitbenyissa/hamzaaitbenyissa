@@ -22,23 +22,6 @@ Hey there! I'm **Hamza Ait Benyissa**, a **Software Engineer** from Morocco 🇲
 ✨ **Sharing Knowledge**: Whether it's through blogs, talks, or mentoring, I love helping others grow in tech.  
 ✨ **Exploring Security**: Building tools and solutions for enhanced cybersecurity workflows.  
 
----
-
-### 🔧 Skills & Technologies  
-#### **Languages**  
-`Python` · `Java` · `JavaScript` · `C++`  
-
-#### **Web Development**  
-`HTML` · `CSS` · `Nuxt.js` · `React` · `Node.js`  
-
-#### **DevOps & Tools**  
-`Docker` · `Git` · `Jenkins` · `CircleCI` · `Kubernetes`  
-
-#### **Databases**  
-`PostgreSQL` · `MySQL` · `MongoDB`  
-
----
-
 ### 🌟 GitHub Stats  
 <p align="center">
 <a href="http://github-readme-streak-stats.herokuapp.com?user=hamzaaitbenyissa&theme=dark&background=000000"><img src="http://github-readme-streak-stats.herokuapp.com?user=hamzaaitbenyissa&theme=dark&background=000000" alt="GitHub Streak"></a>
