@@ -14,4 +14,21 @@
 
 ---
 
+## About Me
+I am a passionate software engineer from Morocco with a strong interest in developing innovative solutions to complex problems. I have experience in various programming languages and technologies, and I am always eager to learn and grow in my field.
 
+## Projects
+- **Project 1**: Description of project 1.
+- **Project 2**: Description of project 2.
+- **Project 3**: Description of project 3.
+
+## Skills
+- Programming Languages: Python, Java, JavaScript, C++
+- Web Development: HTML, CSS, React, Node.js
+- Databases: MySQL, MongoDB
+- Tools: Git, Docker, Jenkins
+
+## Contact
+- LinkedIn: [Hamza Ait Benyissa](https://www.linkedin.com/in/hamzaaitbenyissa)
+- GitHub: [hamzaaitbenyissa](https://github.com/hamzaaitbenyissa)
+- GitHub (Ostorlab): [benyissa](https://github.com/benyissa)
