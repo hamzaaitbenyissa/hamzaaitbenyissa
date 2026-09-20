@@ -10,7 +10,7 @@
 ### 👋 About Me  
 Hey there! I'm **Hamza Ait Benyissa**, a **Software Engineer** from Morocco 🇲🇦, passionate about distributed systems, automation, and making life easier through technology.  
 
-- 💻 **Current Role**: Engineer at [Ostorlab](https://www.ostorlab.co)  
+- 💻 **Current Role**: Software Engineer at [iMedia24](https://imedia24.de/)  
 - ⚙️ **Specialties**: Crafting solutions that simplify workflows, orchestrating systems, and turning complex challenges into clean, efficient code.  
 - ⚽ **Hobbies**: Football lover, nature enthusiast, and debugger of production issues.  
 - 🌟 **Motto**: *LIVE + LOVE + LAUGH*  
@@ -35,6 +35,4 @@ Hey there! I'm **Hamza Ait Benyissa**, a **Software Engineer** from Morocco 🇲
 ### 📬 Get in Touch  
 - **LinkedIn**: [Hamza Ait Benyissa](https://www.linkedin.com/in/hamzaaitbenyissa)  
 - **GitHub**: [hamzaaitbenyissa](https://github.com/hamzaaitbenyissa)  
-- **Ostorlab GitHub**: [benyissa](https://github.com/benyissa)  
-
 ---
